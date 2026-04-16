@@ -1,3 +1,4 @@
+
 # Implemente um Tipo Abstrato de Dado (TAD) de Pilha utilizando uma lista de Python. O programa deve permitir adicionar palavras (push) e remover a última palavra (pop), seguindo o conceito LIFO.
 
 class Pilha:
@@ -20,3 +21,4 @@ minha_pilha.push("PYTHON")
 minha_pilha.pop()
 print(minha_pilha.palavras)
     
+

@@ -1,3 +1,4 @@
+
 # Implemente um TAD de Fila para gerenciar os pedidos. O código deve permitir adicionar um novo pedido ao final da fila (inserção) e remover o pedido que já foi atendido na frente da fila (remoção).
 
 class Fila:
@@ -19,3 +20,4 @@ minha_fila.push(2)
 minha_fila.push(7)
 minha_fila.pop()
 print(minha_fila.pedidos)
+
